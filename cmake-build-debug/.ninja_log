@@ -1,0 +1,6 @@
+# ninja log v6
+6	436	7724000895707357	CMakeFiles/Control3_3.dir/main.cpp.obj	73a9726886ef3e8a
+40	495	7723999771074563	CMakeFiles/Control3_3.dir/SistemaAsignatura.cpp.obj	b4ec0cc176b99115
+5	334	7724002750037041	build.ninja	320e296433f85da1
+34	392	7723999771005397	CMakeFiles/Control3_3.dir/Asignatura.cpp.obj	ecae62953f6182d9
+437	570	7724000900011514	Control3_3.exe	194bdb08a1bf02f5
